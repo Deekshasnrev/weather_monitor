@@ -70,7 +70,7 @@ Before running the application, ensure the following dependencies are installed:
    git clone https://github.com/Deekshasnrev/weather-monitor.git
    cd weather-monitoring-app
 
-## Below i have included pictures for clear Visualisation and Guide
+## Guide
 
 # First when you land in the website please write '/weather/' and press enter.
 ![Screenshot 2024-10-20 234220](https://github.com/user-attachments/assets/2fc3efe6-7aba-454a-816e-be0ae7a877a3)
