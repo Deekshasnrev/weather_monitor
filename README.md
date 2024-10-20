@@ -12,7 +12,7 @@ This application fetches weather data for specified cities from the OpenWeatherM
 2. [Design Choices](#design-choices)
 3. [Dependencies](#dependencies)
 4. [Installation and Setup](#installation-and-setup)
-5. [Guide](#Visualisation_and_Guide)
+5. [Guide](#Guide)
 ---
 
 ## **1. Overview**
