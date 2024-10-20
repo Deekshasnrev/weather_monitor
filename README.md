@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d88f2eaf-a585-4403-9351-effb73d5038f)# **Weather Monitoring Application**
+# **Weather Monitoring Application**
 
 ## Overview
 
@@ -12,6 +12,7 @@ This application fetches weather data for specified cities from the OpenWeatherM
 2. [Design Choices](#design-choices)
 3. [Dependencies](#dependencies)
 4. [Installation and Setup](#installation-and-setup)
+5. [Guide](#Visualisation_and_Guide)
 ---
 
 ## **1. Overview**
