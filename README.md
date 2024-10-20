@@ -1,4 +1,4 @@
-# **Weather Monitoring Application**
+![image](https://github.com/user-attachments/assets/d88f2eaf-a585-4403-9351-effb73d5038f)# **Weather Monitoring Application**
 
 ## Overview
 
@@ -74,3 +74,21 @@ Before running the application, ensure the following dependencies are installed:
    ```bash
    git clone https://github.com/Deekshasnrev/weather-monitor.git
    cd weather-monitoring-app
+
+# Below i have included pictures for clear Visualisation and Guide
+First when you land in the website please write #'/weather/' and press enter
+![Screenshot 2024-10-20 234220](https://github.com/user-attachments/assets/2fc3efe6-7aba-454a-816e-be0ae7a877a3)
+
+
+![Screenshot 2024-10-20 232910](https://github.com/user-attachments/assets/1015fab5-19c3-48ed-84a1-06345c8cc750)
+
+![Screenshot 2024-10-20 233026](https://github.com/user-attachments/assets/4b009b24-bd3d-403c-845a-e6efeca30e6d)
+
+![Screenshot 2024-10-20 233119](https://github.com/user-attachments/assets/c1651da2-91c9-4e72-a9b0-434b5261fee2)
+
+![Screenshot 2024-10-20 233246](https://github.com/user-attachments/assets/00ec2c4a-0693-4cb8-9861-3e5c852fa44b)
+
+![Screenshot 2024-10-20 233347](https://github.com/user-attachments/assets/3f9b9520-d336-48bb-a0ba-062401995077)
+
+
+
