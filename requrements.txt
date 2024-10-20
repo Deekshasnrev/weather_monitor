@@ -1,0 +1,20 @@
+# Backend dependencies
+Django>=4.0
+djangorestframework>=3.12
+requests>=2.26
+psycopg2>=2.9  # PostgreSQL adapter for Python
+python-dotenv>=0.19  # For managing environment variables
+phonenumbers>=8.12  # For handling phone numbers (if notifications are included)
+
+# Frontend dependencies (using Django templates and static files)
+django-bootstrap4>=22.1  # For Bootstrap integration with Django
+django-chartjs>=2.0  # To integrate Chart.js with Django (optional)
+
+# Development and testing tools
+pytest>=6.2  # For running tests
+pytest-django>=4.4  # Django integration with pytest
+flake8>=3.9  # For linting and code style checks
+coverage>=5.5  # For test coverage reporting
+
+# Docker support dependencies (for running in Docker environment)
+gunicorn>=20.1  # Production WSGI server for serving the Django application
