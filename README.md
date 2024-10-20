@@ -68,7 +68,14 @@ Before running the application, ensure the following dependencies are installed:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Deekshasnrev/weather-monitor.git
-   cd weather-monitoring-app
+   cd weather-monitor
+
+2.  **Make sure the manage.py file is present there , otherwise go that folder**
+3.  **Start the server**
+    ```bash
+    python manage.py runserver
+ 4. **Go thr link which comes Eg:'http://127.0.0.1:8000/'**
+
 
 ## Guide
 
