@@ -12,12 +12,6 @@ This application fetches weather data for specified cities from the OpenWeatherM
 2. [Design Choices](#design-choices)
 3. [Dependencies](#dependencies)
 4. [Installation and Setup](#installation-and-setup)
-5. [Running the Application](#running-the-application)
-6. [Database Configuration](#database-configuration)
-7. [Docker Setup](#docker-setup)
-8. [Testing](#testing)
-9. [Future Improvements](#future-improvements)
-
 ---
 
 ## **1. Overview**
@@ -75,12 +69,15 @@ Before running the application, ensure the following dependencies are installed:
    git clone https://github.com/Deekshasnrev/weather-monitor.git
    cd weather-monitoring-app
 
-# Below i have included pictures for clear Visualisation and Guide
-First when you land in the website please write #'/weather/' and press enter
+## Below i have included pictures for clear Visualisation and Guide
+
+# First when you land in the website please write '/weather/' and press enter.
 ![Screenshot 2024-10-20 234220](https://github.com/user-attachments/assets/2fc3efe6-7aba-454a-816e-be0ae7a877a3)
 
 
+# In the dropdown select the cities which you want to see the weather details.
 ![Screenshot 2024-10-20 232910](https://github.com/user-attachments/assets/1015fab5-19c3-48ed-84a1-06345c8cc750)
+
 
 ![Screenshot 2024-10-20 233026](https://github.com/user-attachments/assets/4b009b24-bd3d-403c-845a-e6efeca30e6d)
 
@@ -88,6 +85,8 @@ First when you land in the website please write #'/weather/' and press enter
 
 ![Screenshot 2024-10-20 233246](https://github.com/user-attachments/assets/00ec2c4a-0693-4cb8-9861-3e5c852fa44b)
 
+
+# By clicking on the boxes beside features we can strike that feature and remove it from the chart
 ![Screenshot 2024-10-20 233347](https://github.com/user-attachments/assets/3f9b9520-d336-48bb-a0ba-062401995077)
 
 
